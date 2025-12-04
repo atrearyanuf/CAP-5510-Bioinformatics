@@ -1,0 +1,98 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/55/RAP1_IAA_30M_REP1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/52/RAP1_UNINDUCED_REP1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/54/RAP1_UNINDUCED_REP2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/56/WT_REP1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/53/WT_REP2.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/100/RAP1_IAA_30M_REP1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/98/WT_REP2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/99/RAP1_UNINDUCED_REP2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/101/WT_REP1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/97/RAP1_UNINDUCED_REP1/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/100/RAP1_IAA_30M_REP1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/98/WT_REP2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/99/RAP1_UNINDUCED_REP2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/101/WT_REP1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/97/RAP1_UNINDUCED_REP1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/110/RAP1_IAA_30M_REP1.read_distribution.txt
+RSeQC	read_distribution	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/107/RAP1_UNINDUCED_REP1.read_distribution.txt
+RSeQC	read_distribution	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/109/RAP1_UNINDUCED_REP2.read_distribution.txt
+RSeQC	read_distribution	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/111/WT_REP1.read_distribution.txt
+RSeQC	read_distribution	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/108/WT_REP2.read_distribution.txt
+RSeQC	inner_distance	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/123/RAP1_IAA_30M_REP1.inner_distance_freq.txt
+RSeQC	inner_distance	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/124/WT_REP1.inner_distance_freq.txt
+RSeQC	inner_distance	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/122/WT_REP2.inner_distance_freq.txt
+RSeQC	read_duplication	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/105/RAP1_IAA_30M_REP1.pos.DupRate.xls
+RSeQC	read_duplication	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/102/RAP1_UNINDUCED_REP1.pos.DupRate.xls
+RSeQC	read_duplication	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/104/RAP1_UNINDUCED_REP2.pos.DupRate.xls
+RSeQC	read_duplication	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/106/WT_REP1.pos.DupRate.xls
+RSeQC	read_duplication	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/103/WT_REP2.pos.DupRate.xls
+RSeQC	junction_annotation	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/134/RAP1_IAA_30M_REP1.junction_annotation.log
+RSeQC	junction_annotation	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/131/RAP1_UNINDUCED_REP1.junction_annotation.log
+RSeQC	junction_annotation	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/133/RAP1_UNINDUCED_REP2.junction_annotation.log
+RSeQC	junction_annotation	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/135/WT_REP1.junction_annotation.log
+RSeQC	junction_annotation	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/132/WT_REP2.junction_annotation.log
+RSeQC	junction_saturation	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/120/RAP1_IAA_30M_REP1.junctionSaturation_plot.r
+RSeQC	junction_saturation	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/117/RAP1_UNINDUCED_REP1.junctionSaturation_plot.r
+RSeQC	junction_saturation	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/119/RAP1_UNINDUCED_REP2.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/121/WT_REP1.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/118/WT_REP2.junctionSaturation_plot.r
+RSeQC	infer_experiment	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/128/RAP1_IAA_30M_REP1.infer_experiment.txt
+RSeQC	infer_experiment	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/125/RAP1_UNINDUCED_REP1.infer_experiment.txt
+RSeQC	infer_experiment	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/127/RAP1_UNINDUCED_REP2.infer_experiment.txt
+RSeQC	infer_experiment	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/129/WT_REP1.infer_experiment.txt
+RSeQC	infer_experiment	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/126/WT_REP2.infer_experiment.txt
+RSeQC	bam_stat	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/115/RAP1_IAA_30M_REP1.bam_stat.txt
+RSeQC	bam_stat	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/112/RAP1_UNINDUCED_REP1.bam_stat.txt
+RSeQC	bam_stat	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/114/RAP1_UNINDUCED_REP2.bam_stat.txt
+RSeQC	bam_stat	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/116/WT_REP1.bam_stat.txt
+RSeQC	bam_stat	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/113/WT_REP2.bam_stat.txt
+Salmon	all_sections	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/27/RAP1_UNINDUCED_REP1/libParams/flenDist.txt
+Salmon	all_sections	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/29/RAP1_UNINDUCED_REP2/libParams/flenDist.txt
+Salmon	all_sections	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/28/WT_REP2/libParams/flenDist.txt
+Salmon	all_sections	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/31/WT_REP1/libParams/flenDist.txt
+Salmon	all_sections	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/30/RAP1_IAA_30M_REP1/libParams/flenDist.txt
+Samtools	stats	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/38/RAP1_IAA_30M_REP1.sorted.bam.stats
+Samtools	stats	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/83/RAP1_UNINDUCED_REP1.markdup.sorted.bam.stats
+Samtools	stats	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/40/RAP1_UNINDUCED_REP2.sorted.bam.stats
+Samtools	stats	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/39/WT_REP1.sorted.bam.stats
+Samtools	stats	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/41/WT_REP2.sorted.bam.stats
+Samtools	flagstat	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/73/RAP1_IAA_30M_REP1.markdup.sorted.bam.flagstat
+Samtools	flagstat	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/47/RAP1_UNINDUCED_REP1.sorted.bam.flagstat
+Samtools	flagstat	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/72/RAP1_UNINDUCED_REP2.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/49/WT_REP1.sorted.bam.flagstat
+Samtools	flagstat	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/71/WT_REP2.markdup.sorted.bam.flagstat
+Samtools	idxstats	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/76/RAP1_IAA_30M_REP1.markdup.sorted.bam.idxstats
+Samtools	idxstats	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/74/RAP1_UNINDUCED_REP1.markdup.sorted.bam.idxstats
+Samtools	idxstats	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/77/RAP1_UNINDUCED_REP2.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/78/WT_REP1.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/46/WT_REP2.sorted.bam.idxstats
+STAR	SummaryLog	RAP1_IAA_30M_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/35/RAP1_IAA_30M_REP1.Log.final.out
+STAR	SummaryLog	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/33/RAP1_UNINDUCED_REP1.Log.final.out
+STAR	SummaryLog	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/34/RAP1_UNINDUCED_REP2.Log.final.out
+STAR	SummaryLog	WT_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/36/WT_REP1.Log.final.out
+STAR	SummaryLog	WT_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/32/WT_REP2.Log.final.out
+FastQC (raw)	all_sections	RAP1_IAA_30M_REP1_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/6/RAP1_IAA_30M_REP1_raw_1_fastqc.zip
+FastQC (raw)	all_sections	RAP1_IAA_30M_REP1_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/7/RAP1_IAA_30M_REP1_raw_2_fastqc.zip
+FastQC (raw)	all_sections	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/3/RAP1_UNINDUCED_REP1_raw_fastqc.zip
+FastQC (raw)	all_sections	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/10/RAP1_UNINDUCED_REP2_raw_fastqc.zip
+FastQC (raw)	all_sections	WT_REP1_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/8/WT_REP1_raw_1_fastqc.zip
+FastQC (raw)	all_sections	WT_REP1_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/9/WT_REP1_raw_2_fastqc.zip
+FastQC (raw)	all_sections	WT_REP2_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/4/WT_REP2_raw_1_fastqc.zip
+FastQC (raw)	all_sections	WT_REP2_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/5/WT_REP2_raw_2_fastqc.zip
+Cutadapt	all_sections	RAP1_IAA_30M_REP1_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/13/RAP1_IAA_30M_REP1_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	RAP1_IAA_30M_REP1_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/14/RAP1_IAA_30M_REP1_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/11/RAP1_UNINDUCED_REP1_trimmed.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/25/RAP1_UNINDUCED_REP2_trimmed.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT_REP1_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/21/WT_REP1_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT_REP1_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/22/WT_REP1_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT_REP2_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/17/WT_REP2_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT_REP2_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/18/WT_REP2_trimmed_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	RAP1_IAA_30M_REP1_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/15/RAP1_IAA_30M_REP1_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	RAP1_IAA_30M_REP1_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/16/RAP1_IAA_30M_REP1_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	RAP1_UNINDUCED_REP1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/12/RAP1_UNINDUCED_REP1_trimmed_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	RAP1_UNINDUCED_REP2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/26/RAP1_UNINDUCED_REP2_trimmed_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	WT_REP1_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/23/WT_REP1_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT_REP1_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/24/WT_REP1_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT_REP2_1	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/19/WT_REP2_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT_REP2_2	/Users/aryanatre/Desktop/CAP-5510-Bioinformatics/rnaseq/work/c0/b7eecb023c4ec1821c22bcdd169cb6/20/WT_REP2_trimmed_2_val_2_fastqc.zip
